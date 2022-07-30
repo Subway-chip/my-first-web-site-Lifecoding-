@@ -36,4 +36,5 @@ var Links = {
 
                 Links.setColor('blue');
             }
+
         }
